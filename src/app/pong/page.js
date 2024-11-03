@@ -5,7 +5,7 @@ function page() {
     return (
        <div >
         <Navbar />
-        <img src="/snakeHeader.png" className="snakeHeader"/>
+        <img src="/pongHeader.png" className="header"/>
 
         <div className='section'>
             <iframe src="https://pong-seven-mu.vercel.app/" className="gameSquare" />
