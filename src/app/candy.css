@@ -1,0 +1,19 @@
+body{
+    background-color: #D3CCED;
+    width:100vw;
+    height:100vh;
+  }
+  
+  iframe{
+    width:90%; 
+    height:70vh;
+  }
+  
+  .section{
+    max-width:100%;
+    margin-top:3vmin; 
+    margin-bottom:3vmin; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
